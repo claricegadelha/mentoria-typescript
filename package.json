@@ -5,15 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server",
+    "start": "npm run lite",
+    "lite": "lite-server",
     "watch": "tsc --watch"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lite-server": "^2.6.1"
-  },
   "devDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.7.4"
   }
 }

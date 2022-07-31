@@ -1,0 +1,14 @@
+.flex-container{
+	display: flex;
+}
+.login-container{
+	display: flex; 
+	width: 300px; 
+	height: 100px; 
+	justify-content: space-between; 
+	flex-direction: column;
+}
+
+.search-container{
+	margin-left: 20px
+}

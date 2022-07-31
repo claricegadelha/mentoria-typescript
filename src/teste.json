@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "failure": true,
+  "status_code": 17,
+  "status_message": "Session denied."
+}
+
+
+https: //api.themoviedb.org/3/authentication/session/new?api_key=${apiKey}&request_token=8694ab7cff54fc07077a4cedc8ff946fc4c6082f
